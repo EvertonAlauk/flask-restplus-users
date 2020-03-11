@@ -1,7 +1,7 @@
 >> 
 API REST com Flask, Flask-Restful, SQLAlchemy e PostgreSQL
 ===================
-Necessário ter o virtualenv e o pip instalados!
+Necessário ter o virtualenv, pip e o postgres instalados!
 
 1. Instale todas as dependências:
 ```shell
