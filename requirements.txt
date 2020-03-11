@@ -1,0 +1,6 @@
+flask
+flask-restful
+flask-restful-swagger-2
+flask-restplus
+sqlalchemy
+psycopg2
