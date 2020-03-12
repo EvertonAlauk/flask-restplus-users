@@ -17,7 +17,7 @@ from flask_restplus import (
 api = Namespace('users', description='Operacoes relacionadas aos usuarios')
 
 user = {
-    'id': fields.Integer(required=True, description='Identificador'),
+    'id': fields.String(required=True, description='Identificador'),
     'first_name': fields.String(required=True, description='Primeiro nome'),
     'email': fields.String(required=True, description='Email'),
 }
