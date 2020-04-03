@@ -1,1 +1,1 @@
-web: gunicorn flask-rest-jwt:app
+web: gunicorn app:app
