@@ -1,1 +1,1 @@
-web: gunicorn deploy:app
+web: gunicorn flask-restplus-users:app
